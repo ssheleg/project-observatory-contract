@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/ssheleg/project-observatory-contract/rev-2/schemas/record-output.schema.json",
+  "$id": "https://raw.githubusercontent.com/ssheleg/project-observatory-contract/rev-3/schemas/record-output.schema.json",
   "title": "project.record — output",
   "description": "Either an accepted proposal, or a typed refusal carrying its remedy. A refusal is an answer, not a fault.",
   "oneOf": [

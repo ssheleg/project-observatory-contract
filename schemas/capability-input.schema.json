@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/ssheleg/project-observatory-contract/rev-2/schemas/capability-input.schema.json",
+  "$id": "https://raw.githubusercontent.com/ssheleg/project-observatory-contract/rev-3/schemas/capability-input.schema.json",
   "title": "estate.survey — input",
   "description": "Selects the scope to survey. An absent scope means the whole estate visible to this machine.",
   "type": "object",

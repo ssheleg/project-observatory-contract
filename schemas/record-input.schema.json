@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/ssheleg/project-observatory-contract/rev-2/schemas/record-input.schema.json",
+  "$id": "https://raw.githubusercontent.com/ssheleg/project-observatory-contract/rev-3/schemas/record-input.schema.json",
   "title": "project.record — input",
   "description": "Append a note, or propose a registry change. Both are proposals; neither is canon.",
   "type": "object",
